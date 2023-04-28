@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+color: white;
+font-family: 'Itim', cursive;
+}
+body{
+    background-color: rgb(1, 31, 7);
+}
+/* .container{ */
+    /* width: 800px; */
+    /* background-color: #0d5c63; */
+    /* margin-left: 250px; */
+    /* margin-top: 100px; */
+    /* border-radius: 10px; */
+/* } */
+h2 {
+    font-weight: bolder;
+    
+    letter-spacing: 4px;
+    color: rgb(233, 131, 14);
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Righteous', cursive;
+    margin-left: 250px;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+    text-align: left;
+    margin-left: 200px; margin-top: 20px;
+}
+form{
+    margin-left: 90px; 
+    font-size: large;
+    font-weight: bolder;
+}
+input{
+    width: 300px;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    
+   
+}
+/* #labelBill{ */
+    /* margin-right: 78px; */
+/* } */
+#calculate{
+    padding: 20px;
+    width: 200px;
+    background-color: burlywood;
+    /* font-weight: bolder; */
+    border-radius: 10px;
+    margin-left: 10px;
+    font-size: large;
+    margin-top: 25px;
+}
+#reset{
+    padding: 20px;
+    width: 200px;
+    background-color:  burlywood;
+    /* font-weight: bolder; */
+    border-radius: 10px;
+    margin-left: 20px;
+    font-size: large;
+    margin-top: 25px;
+}
+
+/* #total{ */
+    /* text-align: ; */
+/* } */
+.socialMedia{
+    margin-left: 250px; margin-top: 30px;
+    font-size: large;
+}
+i{
+    margin-left: 10px;
+}
